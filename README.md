@@ -8,7 +8,7 @@ Welcome to the Clustering Algorithms Repository! This repository contains implem
 - [Algorithms](#algorithms)
   - [K-Means Clustering](#k-means-clustering)
   - [Hierarchical Clustering](#hierarchical-clustering)
-- [Usage](#usage)
+- [Usage <img src="images/usage.gif" alt="Alt Text" width="4.5%">](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
