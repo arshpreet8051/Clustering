@@ -5,9 +5,9 @@ Welcome to the Clustering Algorithms Repository! This repository contains implem
 ## <img src="images/graphj_report.png" alt="Alt Text" width="4%" > Table of Contents &nbsp; 
 
 - [Introduction](#-introduction)
-- [Algorithms](#-algorithms)
-  - [K-Means Clustering](#-k-means-clustering)
-  - [Hierarchical Clustering](#--hierarchical-clustering)
+- [Algorithms](#--algorithms)
+  - [K-Means Clustering](#--k-means-clustering)
+  - [Hierarchical Clustering](#-hierarchical-clustering)
 - [Usage](#usage-)
 - [Contributing](#contributing-)
 - [License](#license-)
