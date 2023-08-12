@@ -20,7 +20,7 @@ If you find this repository useful, consider giving it a star :star: and followi
 
 ## Algorithms
 
-### K-Means Clustering(k-means.py)
+### K-Means Clustering
 
 K-Means is an iterative algorithm that aims to partition a dataset into K distinct, non-overlapping clusters. It works by assigning each data point to the nearest cluster center and then recalculating the cluster centers based on the assigned points. This process continues until convergence.
 
