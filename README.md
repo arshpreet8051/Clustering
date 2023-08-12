@@ -1,30 +1,30 @@
-# Clustering Algorithms Repository
+# <img src="images/group.png" alt="Alt Text" width="4.5%" >&nbsp; Clustering Algorithms Repository &nbsp; <img src="images/clusters.png" alt="Alt Text" width="4.5%" > 
 
 Welcome to the Clustering Algorithms Repository! This repository contains implementations of popular clustering algorithms, specifically K-Means and Hierarchical Clustering, along with usage examples and explanations.
 
-## Table of Contents
+## <img src="images/graphj_report.png" alt="Alt Text" width="4%" > Table of Contents &nbsp; 
 
-- [Introduction](#introduction)
-- [Algorithms](#algorithms)
-  - [K-Means Clustering](#k-means-clustering)
-  - [Hierarchical Clustering](#hierarchical-clustering)
+- [Introduction](#introduction-)
+- [Algorithms](#algorithms-)
+  - [K-Means Clustering](#k-means-clustering-)
+  - [Hierarchical Clustering](#hierarchical-clustering-)
 - [Usage](#usage-)
 - [Contributing](#contributing-)
 - [License](#license-)
 
-## Introduction
+##   <img src="images/prize.png" alt="Alt Text" width="4.5%" > Introduction 
 
 Clustering is a fundamental technique in machine learning and data analysis, used to group similar data points together. This repository provides implementations and examples of two well-known clustering algorithms: K-Means and Hierarchical Clustering.
 
 If you find this repository useful, consider giving it a :octocat:  :star: star  :star: :octocat: and following my GitHub account :eyes:. Your support motivates me to continue creating and sharing more open-source projects!
 
-## Algorithms
+## <img src="images/ml_icon.png" alt="Alt Text" width="3.5%" > &nbsp; Algorithms
 
-### K-Means Clustering
+### <img src="images/location.gif" alt="Alt Text" width="3.5%" >  K-Means Clustering 
 
 K-Means is an iterative algorithm that aims to partition a dataset into K distinct, non-overlapping clusters. It works by assigning each data point to the nearest cluster center and then recalculating the cluster centers based on the assigned points. This process continues until convergence.
 
-### Hierarchical Clustering
+### <img src="images/location.gif" alt="Alt Text" width="3.5%" > Hierarchical Clustering
 Hierarchical Clustering is a technique that builds a hierarchy of clusters by either merging smaller clusters into larger ones (agglomerative) or dividing larger clusters into smaller ones (divisive). It creates a tree-like structure called a dendrogram, which can be used to visualize the clustering process.
 
 
