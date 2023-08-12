@@ -10,7 +10,7 @@ Welcome to the Clustering Algorithms Repository! This repository contains implem
   - [Hierarchical Clustering](#hierarchical-clustering)
 - [Usage](#usage-)
 - [Contributing](#contributing-)
-- [License](#license)
+- [License](#license-)
 
 ## Introduction :star: :octocat:
 
@@ -39,5 +39,5 @@ To use the clustering algorithms provided in this repository, follow these steps
 ## Contributing <img src="images/contribute.gif" alt="Alt Text" width="4.5%">
 Contributions, suggestions, and feedback are welcome! If you would like to contribute to this repository, please follow the guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
-## License
+## License [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
