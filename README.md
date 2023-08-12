@@ -12,11 +12,11 @@ Welcome to the Clustering Algorithms Repository! This repository contains implem
 - [Contributing](#contributing-)
 - [License](#license-)
 
-## Introduction :star: :octocat:
+## Introduction
 
 Clustering is a fundamental technique in machine learning and data analysis, used to group similar data points together. This repository provides implementations and examples of two well-known clustering algorithms: K-Means and Hierarchical Clustering.
 
-If you find this repository useful, consider giving it a star :star: and following my GitHub account :eyes:. Your support motivates me to continue creating and sharing more open-source projects!
+If you find this repository useful, consider giving it a :octocat:  :star: star  :star: :octocat: and following my GitHub account :eyes:. Your support motivates me to continue creating and sharing more open-source projects!
 
 ## Algorithms
 
