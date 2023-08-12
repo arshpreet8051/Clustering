@@ -9,7 +9,7 @@ Welcome to the Clustering Algorithms Repository! This repository contains implem
   - [K-Means Clustering](#k-means-clustering)
   - [Hierarchical Clustering](#hierarchical-clustering)
 - [Usage](#usage-)
-- [Contributing](#contributing)
+- [Contributing](#contributing-)
 - [License](#license)
 
 ## Introduction :star: :octocat:
@@ -36,7 +36,7 @@ To use the clustering algorithms provided in this repository, follow these steps
    ```bash
    git clone https://github.com/arshpreet8051/Clustering.git
 
-## Contributing 
+## Contributing <img src="images/contribute.gif" alt="Alt Text" width="4.5%">
 Contributions, suggestions, and feedback are welcome! If you would like to contribute to this repository, please follow the guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
 ## License
