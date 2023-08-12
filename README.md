@@ -36,7 +36,7 @@ To use the clustering algorithms provided in this repository, follow these steps
    ```bash
    git clone https://github.com/arshpreet8051/Clustering.git
 
-## Contributing <img src="images/contribute.gif" alt="Alt Text" width="4.5%">
+## Contributing 
 Contributions, suggestions, and feedback are welcome! If you would like to contribute to this repository, please follow the guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
 ## License
