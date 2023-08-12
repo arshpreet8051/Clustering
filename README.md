@@ -28,7 +28,7 @@ K-Means is an iterative algorithm that aims to partition a dataset into K distin
 Hierarchical Clustering is a technique that builds a hierarchy of clusters by either merging smaller clusters into larger ones (agglomerative) or dividing larger clusters into smaller ones (divisive). It creates a tree-like structure called a dendrogram, which can be used to visualize the clustering process.
 
 
-## Usage
+## Usage <img src="images/usage.gif" alt="Alt Text" width="4.5%">
 
 To use the clustering algorithms provided in this repository, follow these steps:
 
