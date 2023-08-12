@@ -6,7 +6,7 @@ Welcome to the Clustering Algorithms Repository! This repository contains implem
 
 - [Introduction](#-introduction)
 - [Algorithms](#--algorithms)
-  - [K-Means Clustering](#--k-means-clustering)
+  - [K-Means Clustering](# --k-means-clustering)
   - [Hierarchical Clustering](#-hierarchical-clustering)
 - [Usage](#usage-)
 - [Contributing](#contributing-)
