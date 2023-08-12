@@ -35,3 +35,9 @@ To use the clustering algorithms provided in this repository, follow these steps
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/arshpreet8051/Clustering.git
+
+## Contributing <img src="images/contribute.gif" alt="Alt Text" width="4.5%">
+Contributions, suggestions, and feedback are welcome! If you would like to contribute to this repository, please follow the guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
